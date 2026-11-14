@@ -211,3 +211,9 @@ MIT © Dynamic Billing Engine
 <p align="center">
   <i>Turn Every Cost Into Verifiable Intelligence.<br/>Ubah Setiap Biaya Menjadi Intelijen yang Terverifikasi.</i>
 </p>
+
+---
+
+<p align="center">
+  <i>Built by / Dibangun oleh — <b>VeryCoolApps (PT. Agra Karya Digital)</b> — <a href="https://www.vcadeveloper.com">www.vcadeveloper.com</a></i>
+</p>
